@@ -1,0 +1,22 @@
+//For future NOT A1
+Model:
+-Game win/draw/continue
+-Player type's AI, versus Human
+
+View:
+-Board view
+	-Has Stones on either side, Board, a console, Analyze button (we set visiblity)
+		menu bar or some way to go back to main menu and end game
+	-Player Draw
+-Controller
+	-Link elements
+	
+Info Hiding:
+	-Player movement A2 check
+	-Player type A3
+	-Play against self mode A2
+	-Play against other player types A3
+	-
+Citation, Below are in public Domain:
+Image Menu background http://charlie-henson.deviantart.com/art/Flat-Pattern-Quilts-Wallpaper-6-496685899
+https://commons.wikimedia.org/wiki/File:DmhImg3333.png
